@@ -1,3 +1,5 @@
-изменить пароль
+ГЁГ§Г¬ГҐГ­ГЁГІГј ГЇГ Г°Г®Г«Гј
 
 string Contring = "Server=127.0.0.1;Database=myfirstdb;Uid=root;Pwd=MYYYPASSSSWWORRD;";
+
+.
