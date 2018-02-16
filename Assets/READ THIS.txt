@@ -6,3 +6,8 @@ string Contring = "Server=127.0.0.1;Database=myfirstdb;Uid=root;Pwd=MYYYPASSSSWW
 2
 2
 3
+56
+56
+56
+5
+6
